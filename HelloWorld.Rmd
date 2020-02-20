@@ -1,6 +1,4 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+Author: Yifei Guo
 ---
 ## This is a markdown file.
